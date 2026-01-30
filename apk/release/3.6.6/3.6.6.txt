@@ -1,9 +1,9 @@
-本次更新日志：
+本次更新日誌：
 
 * [App]
 * EXO更新至1.9.1
-* 更新Youtube组件
-* 支持歌词(playContent字段lrc)
-* 歌词支持krc格式
-* 优化歌词
-* BUG修复
+* 更新Youtube元件
+* 支援歌詞(playContent欄位lrc)
+* 歌詞支援krc格式
+* 優化歌詞
+* BUG修復
