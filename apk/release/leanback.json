@@ -1,5 +1,5 @@
 {
-  "code": "370",
-  "name": "3.7.0",
+  "code": "375",
+  "name": "3.7.5",
   "desc": "* [App] \n* strings更新 \n* 更新Youtube组件 \n* 修复某些输入框崩溃BUG"
 }
